@@ -1,4 +1,4 @@
-```markdown
+
 # Image Link Extractor & Downloader
 
 Do you often encounter the issue where, when reposting blogs across different platforms, the platforms cannot directly extract images from external sites? At this point, manual import is required, but downloading one link at a time is extremely cumbersome. This user-friendly desktop application is here to help: built with Tkinter, it extracts Markdown-style image links (![description](url)) from text and enables batch downloading. Designed for simplicity and efficiency, it provides real-time progress tracking and automatic folder management.
