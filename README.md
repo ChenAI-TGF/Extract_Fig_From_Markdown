@@ -33,7 +33,7 @@ A user-friendly desktop application built with Tkinter that extracts Markdown-st
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ChenAI-TGF/image-link-extractor.git
+   git clone https://github.com/ChenAI-TGF/Extract_Fig_From_Markdown.git
    cd image-link-extractor
    ```
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 安装流程
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/ChenAI-TGF/image-link-extractor.git
+   git clone https://github.com/ChenAI-TGF/Extract_Fig_From_Markdown.git
    cd image-link-extractor
    ```
 
