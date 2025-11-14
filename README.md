@@ -1,7 +1,7 @@
 ```markdown
 # Image Link Extractor & Downloader
 
-A user-friendly desktop application built with Tkinter that extracts Markdown-style image links (`![description](url)`) from text and enables batch downloading. Designed for simplicity and efficiency, it provides real-time progress tracking and automatic folder management.
+Do you often encounter the issue where, when reposting blogs across different platforms, the platforms cannot directly extract images from external sites? At this point, manual import is required, but downloading one link at a time is extremely cumbersome. This user-friendly desktop application is here to help: built with Tkinter, it extracts Markdown-style image links (![description](url)) from text and enables batch downloading. Designed for simplicity and efficiency, it provides real-time progress tracking and automatic folder management.
 
 ## Key Features
 - **Intuitive GUI**: Clean and responsive interface with Chinese language support (SimHei font)
@@ -85,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # 图片链接提取与下载工具
 
-一款基于Tkinter开发的桌面应用，可从文本中提取Markdown格式（`![描述](链接)`）的图片链接并支持批量下载。工具设计简洁高效，提供实时进度跟踪和自动文件夹管理功能。
+你是否经常面临在不同平台之间转载博客时，平台无法直接提取外站图片的问题？这时就需要手动导入，而一个链接一个链接地下载又极为麻烦。这款用户友好的桌面应用程序正是为解决此问题而生：它基于 Tkinter 构建，能从文本中提取 Markdown 格式的图片链接（![描述](链接)）并支持批量下载。其设计注重简洁与高效，提供实时进度跟踪和自动文件夹管理功能。
 
 ## 核心功能
 - **直观界面**：简洁响应式图形界面，支持中文显示（采用SimHei字体）
