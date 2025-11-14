@@ -1,4 +1,4 @@
-```markdown
+
 # Image Link Extractor & Downloader
 
 A user-friendly desktop application built with Tkinter that extracts Markdown-style image links (`![description](url)`) from text and enables batch downloading. Designed for simplicity and efficiency, it provides real-time progress tracking and automatic folder management.
